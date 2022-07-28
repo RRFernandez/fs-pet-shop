@@ -27,6 +27,10 @@
     "homepage": "https://github.com/gSchool/fs-pet-shop#readme",
     "dependencies": {
         "express": "^4.18.1",
+<<<<<<< Updated upstream
+=======
+        "morgan": "^1.10.0",
+>>>>>>> Stashed changes
         "nodemon": "^1.19.4"
     },
     "devDependencies": {
